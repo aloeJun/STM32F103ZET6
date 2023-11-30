@@ -1,0 +1,11 @@
+.\objects\mqttconnectserver.o: ..\aliot\MQTT\MQTTConnectServer.c
+.\objects\mqttconnectserver.o: ..\aliot\MQTT\StackTrace.h
+.\objects\mqttconnectserver.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\mqttconnectserver.o: ..\aliot\MQTT\MQTTPacket.h
+.\objects\mqttconnectserver.o: ..\aliot\MQTT\MQTTConnect.h
+.\objects\mqttconnectserver.o: ..\aliot\MQTT\MQTTPublish.h
+.\objects\mqttconnectserver.o: ..\aliot\MQTT\MQTTSubscribe.h
+.\objects\mqttconnectserver.o: ..\aliot\MQTT\MQTTUnsubscribe.h
+.\objects\mqttconnectserver.o: ..\aliot\MQTT\MQTTFormat.h
+.\objects\mqttconnectserver.o: ..\aliot\MQTT\MQTTPacket.h
+.\objects\mqttconnectserver.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h

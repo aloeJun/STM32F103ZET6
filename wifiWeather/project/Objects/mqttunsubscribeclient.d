@@ -1,0 +1,11 @@
+.\objects\mqttunsubscribeclient.o: ..\aliot\MQTT\MQTTUnsubscribeClient.c
+.\objects\mqttunsubscribeclient.o: ..\aliot\MQTT\MQTTPacket.h
+.\objects\mqttunsubscribeclient.o: ..\aliot\MQTT\MQTTConnect.h
+.\objects\mqttunsubscribeclient.o: ..\aliot\MQTT\MQTTPublish.h
+.\objects\mqttunsubscribeclient.o: ..\aliot\MQTT\MQTTSubscribe.h
+.\objects\mqttunsubscribeclient.o: ..\aliot\MQTT\MQTTUnsubscribe.h
+.\objects\mqttunsubscribeclient.o: ..\aliot\MQTT\MQTTFormat.h
+.\objects\mqttunsubscribeclient.o: ..\aliot\MQTT\StackTrace.h
+.\objects\mqttunsubscribeclient.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\mqttunsubscribeclient.o: ..\aliot\MQTT\MQTTPacket.h
+.\objects\mqttunsubscribeclient.o: D:\KEIL5\ARM\ARMCC\Bin\..\include\string.h
